@@ -1,4 +1,4 @@
-# text-classification-on-a-given-dataset-of-news-articles
+# NLP-text-classification-on-a-given-dataset-of-news-articles
 It is a Python script that performs text classification on a given dataset of news articles. The script utilizes a transformer-based model, such as BERT, to classify the articles into predefined categories. 
 The dataset used here is the BBC NEWS SAMPLE SOLUTION.CSV file, where each row represents an article. This script reads the CSV file, preprocesses the text data, trains a transformer-based model for classification, and evaluates its performance.
 
